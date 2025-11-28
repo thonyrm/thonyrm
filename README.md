@@ -1,8 +1,8 @@
 # 👋 ¡Hola, soy Anthony Ramos!  
 
-💻 **Ingeniero en Sistemas** | 🚀 **Desarrollador Web** | 📊 **Apasionado por la Analítica de Datos**  
+💻 **Ingeniero en Sistemas** | 🚀 **Fullstack Developer** | 📊 **Apasionado por la Analítica de Datos**  
 
-Me encanta crear soluciones con **React, JavaScript, TypeScript y BigQuery**.  
+Me encanta crear soluciones con **React, TypeScript, JavaScript, Node , Express (PERN Stack y MERN Stack), BigQuery**.  
 Soy curioso, autodidacta con alto grado de compromiso e iniciativa para diseñar propuestas para agilizar y automatizar procesos.  
 
 ---
