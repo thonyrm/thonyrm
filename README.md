@@ -2,7 +2,7 @@
 
 💻 **Ingeniero en Sistemas** | 🚀 **Fullstack Developer** | 📊 **Operation Business Sr Analyst**  
 
-Me encanta crear soluciones con **React, TypeScript, JavaScript, Node , Express (PERN Stack y MERN Stack), BigQuery**.  
+Me encanta crear soluciones con **React, TypeScript, JavaScript, Node , Express (PERN Stack y MERN Stack), MongoDB, PostgreSQL y BigQuery**.  
 Soy curioso, autodidacta con alto grado de compromiso e iniciativa para diseñar propuestas para agilizar y automatizar procesos.  
 
 ---
