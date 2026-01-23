@@ -34,7 +34,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y escalables. M
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
-
 ### 🔧 Backend & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -55,9 +54,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y escalables. M
 
 ---
 
-## 🎯 Stacks que domino
-
 <div align="center">
+
+## 🎯 Stacks que domino
 
 ### 🔥 MERN Stack
 **M**ongoDB • **E**xpress.js • **R**eact • **N**ode.js
@@ -73,9 +72,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y escalables. M
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thonyrm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117) 
 
@@ -85,9 +84,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y escalables. M
 
 ---
 
-## 🌐 Conecta conmigo
-
 <div align="center">
+
+## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-ramos-morales-7a046916a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thonyrm)
